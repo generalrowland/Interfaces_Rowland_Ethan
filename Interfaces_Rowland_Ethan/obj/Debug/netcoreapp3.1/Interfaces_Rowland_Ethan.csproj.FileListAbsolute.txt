@@ -1,0 +1,13 @@
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\bin\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.exe
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\bin\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.deps.json
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\bin\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.runtimeconfig.json
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\bin\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.runtimeconfig.dev.json
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\bin\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.dll
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\bin\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.pdb
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.csproj.AssemblyReference.cache
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.AssemblyInfoInputs.cache
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.AssemblyInfo.cs
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.csproj.CoreCompileInputs.cache
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.dll
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.pdb
+C:\Users\ethan.rowland\source\repos\Interfaces_Rowland_Ethan\Interfaces_Rowland_Ethan\obj\Debug\netcoreapp3.1\Interfaces_Rowland_Ethan.genruntimeconfig.cache
